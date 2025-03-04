@@ -90,8 +90,8 @@ The project is implemented in **MATLAB**. The main script (`main.m`) performs th
 
 ### Files
 - `main.m`: Main script for running simulations and generating results.
-- `rls_fun.m`: Implementation of the RLS algorithm.
-- `vff_rls.m`: Implementation of the VFF-RLS algorithm.
+- `rls_function.m`: Implementation of the RLS algorithm.
+- `vff_rls_function.m`: Implementation of the VFF-RLS algorithm.
 
 ---
 
